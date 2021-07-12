@@ -1,12 +1,12 @@
 {
-  "name": "static-site",
+  "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodejs file to generate readme file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Candice",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
